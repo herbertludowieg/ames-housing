@@ -3,7 +3,7 @@ GUI representation of description file
 
 This is a simple script to create a GUI with the contents of the
 descriptions for each of the columns in the housing data set for Ames,
-Iowa. The raw file can be found `here <https://github.com/herbertludowieg/ml-projects/ames-housing/data/data_description.txt>`_.
+Iowa. The raw file can be found `here <https://raw.githubusercontent.com/herbertludowieg/ml-projects/main/ames-housing/data/data_description.txt>`_.
 
 This utilizes the
 `Tab <https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html#tabs>`_
