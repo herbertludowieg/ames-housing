@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+ipython
 ipywidgets
 sphinx
 nbsphinx
