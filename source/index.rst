@@ -6,11 +6,14 @@
 Welcome to Ames housing data's documentation!
 =============================================
 
+Linear Regression:
+------------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
-
+   linear-regression/ames-housing-gui.rst
+   linear-regression/ames-housing-data.ipynb
 
 Indices and tables
 ==================

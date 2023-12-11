@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipywidgets
+sphinx
+nbsphinx
+travis-sphinx
+jupyter-sphinx
