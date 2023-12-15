@@ -8,8 +8,10 @@ Welcome to Ames housing data's documentation!
 
 Linear Regression:
 ------------------
+Ames, Iowa housing data set:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
 
    linear-regression/ames-housing-gui.rst

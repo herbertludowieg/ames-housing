@@ -9,3 +9,4 @@ sphinx
 nbsphinx
 travis-sphinx
 jupyter-sphinx
+sphinx-book-theme
