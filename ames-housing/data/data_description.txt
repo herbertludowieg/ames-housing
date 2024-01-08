@@ -461,11 +461,11 @@ WoodDeckSF: Wood deck area in square feet
 
 OpenPorchSF: Open porch area in square feet
 
-EnclosedPorch: Enclosed porch area in square feet
+EnclosedPorchSF: Enclosed porch area in square feet
 
-3SsnPorch: Three season porch area in square feet
+3SsnPorchSF: Three season porch area in square feet
 
-ScreenPorch: Screen porch area in square feet
+ScreenPorchSF: Screen porch area in square feet
 
 PoolArea: Pool area in square feet
 

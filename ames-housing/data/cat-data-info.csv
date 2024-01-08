@@ -1,0 +1,79 @@
+category,name,column
+Blmngtn,Bloomington Heights,Neighborhood
+Blueste,Bluestem,Neighborhood
+BrDale,Briardale,Neighborhood
+BrkSide,Brookside,Neighborhood
+ClearCr,Clear Creek,Neighborhood
+CollgCr,College Creek,Neighborhood
+Crawfor,Crawford,Neighborhood
+Edwards,Edwards,Neighborhood
+Gilbert,Gilbert,Neighborhood
+IDOTRR,Iowa DOT and Rail Road,Neighborhood
+MeadowV,Meadow Village,Neighborhood
+Mitchel,Mitchell,Neighborhood
+Names,North Ames,Neighborhood
+NoRidge,Northridge,Neighborhood
+NPkVill,Northpark Villa,Neighborhood
+NridgHt,Northridge Heights,Neighborhood
+NWAmes,Northwest Ames,Neighborhood
+OldTown,Old Town,Neighborhood
+SWISU,South & West of Iowa State University,Neighborhood
+Sawyer,Sawyer,Neighborhood
+SawyerW,Sawyer West,Neighborhood
+Somerst,Somerset,Neighborhood
+StoneBr,Stone Brook,Neighborhood
+Timber,Timberland,Neighborhood
+Veenker,Veenker,Neighborhood
+1Fam,Single-family Detached,BldgType
+2FmCon,Two-family Conversion; originally built as one-family dwelling,BldgType
+Duplx,Duplex,BldgType
+TwnhsE,Townhouse End Unit,BldgType
+TwnhsI,Townhouse Inside Unit,BldgType
+2Types,More than one type of garage     ,GarageType
+Attchd,Attached to home        ,GarageType
+Basment,Basement Garage         ,GarageType
+BuiltIn,Built-In (Garage part of house - typically has room above garage),GarageType
+CarPort,Car Port         ,GarageType
+Detchd,Detached from home        ,GarageType
+None,No Garage         ,GarageType
+GLQ,Good Living Quarters        ,BsmtFinType1
+ALQ,Average Living Quarters        ,BsmtFinType1
+BLQ,Below Average Living Quarters       ,BsmtFinType1
+Rec,Average Rec Room        ,BsmtFinType1
+LwQ,Low Quality         ,BsmtFinType1
+Unf,Unfinshed          ,BsmtFinType1
+None,No Basement         ,BsmtFinType1
+Ex,Excellent          ,BsmtCond
+Gd,Good          ,BsmtCond
+TA,Typical - slight dampness allowed      ,BsmtCond
+Fa,Fair - dampness or some cracking or settling   ,BsmtCond
+Po,"Poor - Severe cracking, settling, or wetness    ",BsmtCond
+None,No Basement         ,BsmtCond
+Floor,Floor Furnace         ,Heating
+GasA,Gas forced warm air furnace      ,Heating
+GasW,Gas hot water or steam heat     ,Heating
+Grav,Gravity furnace         ,Heating
+OthW,Hot water or steam heat other than gas   ,Heating
+Wall,Wall furnace         ,Heating
+Ex,Excellent,KitchenQual
+Gd,Good,KitchenQual
+TA,Typical/Average,KitchenQual
+Fa,Fair,KitchenQual
+Po,Poor,KitchenQual
+Fin,Finished,GarageFinish
+RFn,Rough Finished,GarageFinish
+Unf,Unfinished,GarageFinish
+None,No Garage,GarageFinish
+GdPrv,Good Privacy,Fence
+MnPrv,Minimum Privacy,Fence
+GdWo,Good Wood,Fence
+MnWw,Minimum Wood/Wire,Fence
+None,No Fence,Fence
+1Story,One story,HouseStyle
+1.5Fin,One and one-half story: 2nd level finished,HouseStyle
+1.5Unf,One and one-half story: 2nd level unfinished,HouseStyle
+2Story,Two story,HouseStyle
+2.5Fin,Two and one-half story: 2nd level finished,HouseStyle
+2.5Unf,Two and one-half story: 2nd level unfinished,HouseStyle
+SFoyer,Split Foyer,HouseStyle
+SLvl,Split Level,HouseStyle
